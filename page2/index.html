@@ -1,161 +1,140 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
+  <meta charset="utf-8">
+  <title>Bootstrap 3, from LayoutIt!</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+	<!--link rel="stylesheet/less" href="less/bootstrap.less" type="text/css" /-->
+	<!--link rel="stylesheet/less" href="less/responsive.less" type="text/css" /-->
+	<!--script src="js/less-1.3.3.min.js"></script-->
+	<!--append ‘#!watch’ to the browser URL, then refresh the page. -->
+	
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
 
-    <title>#GIMNOW - Per favorire la valorizzazione degli aspetti legati all’informazione geografica</title>
+  <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+  <![endif]-->
 
-    <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Fav and touch icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/apple-touch-icon-144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="img/apple-touch-icon-57-precomposed.png">
+  <link rel="shortcut icon" href="img/favicon.png">
+  
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/scripts.js"></script>
+</head>
 
-    <!-- Custom CSS -->
-    <link href="css/grayscale.css" rel="stylesheet">
-
-    <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
-
-    </head>
-
-    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-
-        <!-- Navigation -->
-        <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
-            <div class="container">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                        <i class="fa fa-bars"></i>
-                    </button>
-                    <a class="navbar-brand page-scroll" href="#page-top">
-                        <i class="fa fa-play-circle"></i>  <span class="light">Torna</span> in alto
-                    </a>
-                </div>
-
-                <!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-                    <ul class="nav navbar-nav">
-                        <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                        <li class="hidden">
-                            <a href="#page-top"></a>
-                        </li>
-                        <li>
-                            <a class="page-scroll" href="#about">Leggi</a>
-                        </li>
-                        <li>
-                            <a class="page-scroll" href="#download">Download</a>
-                        </li>
-                        <li>
-                            <a class="page-scroll" href="#contact">Discutiamone</a>
-                        </li>
-                    </ul>
-                </div>
-                <!-- /.navbar-collapse -->
-            </div>
-            <!-- /.container -->
-        </nav>
-
-        <!-- Intro Header -->
-        <header class="intro">
-            <div class="intro-body">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-8 col-md-offset-2">
-                            <h1 class="brand-heading">#GIMnow</h1>
-                            <p class="intro-text">Per favorire la valorizzazione degli aspetti legati all’informazione geografica</p>
-                            <a href="#about" class="btn btn-circle page-scroll">
-                                <i class="fa fa-angle-double-down animated"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
-
-        <!-- About Section -->
-        <section id="about" class="container content-section text-center">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                  <h2>Citt&agrave; geo-smart: ci vuole un esperto? Si potrebbe pensare a un #BigGIM (Geographic Information Manager)</h2>
+<body>
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+			<nav class="navbar navbar-default" role="navigation">
+				<div class="navbar-header">
+					 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button> <a class="navbar-brand" href="#">Brand</a>
+				</div>
+				
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav">
+						<li class="active">
+							<a href="#">Link</a>
+						</li>
+						<li>
+							<a href="#">Link</a>
+						</li>
+						<li class="dropdown">
+							 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown<strong class="caret"></strong></a>
+							<ul class="dropdown-menu">
+								<li>
+									<a href="#">Action</a>
+								</li>
+								<li>
+									<a href="#">Another action</a>
+								</li>
+								<li>
+									<a href="#">Something else here</a>
+								</li>
+								<li class="divider">
+								</li>
+								<li>
+									<a href="#">Separated link</a>
+								</li>
+								<li class="divider">
+								</li>
+								<li>
+									<a href="#">One more separated link</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+					<form class="navbar-form navbar-left" role="search">
+						<div class="form-group">
+							<input type="text" class="form-control">
+						</div> <button type="submit" class="btn btn-default">Submit</button>
+					</form>
+					<ul class="nav navbar-nav navbar-right">
+						<li>
+							<a href="#">Link</a>
+						</li>
+						<li class="dropdown">
+							 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown<strong class="caret"></strong></a>
+							<ul class="dropdown-menu">
+								<li>
+									<a href="#">Action</a>
+								</li>
+								<li>
+									<a href="#">Another action</a>
+								</li>
+								<li>
+									<a href="#">Something else here</a>
+								</li>
+								<li class="divider">
+								</li>
+								<li>
+									<a href="#">Separated link</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+				
+			</nav>
+			<div class="jumbotron">
+				<h1>
+					Hello, world!
+				</h1>
+				<p>
+					This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.
+				</p>
+				<p>
+					<a class="btn btn-primary btn-large" href="#">Learn more</a>
+				</p>
+			</div>
+			<div class="row clearfix">
+				<div class="col-md-8 column">
+					<h2>Citt&agrave; geo-smart: ci vuole un esperto? Si potrebbe pensare a un #BigGIM (Geographic Information Manager)</h2>
                     <p><em>I geo-dati sono come un ordito per tessere città "smart" e la geo-ICT inonda di applicazioni l’ecosistema della città intelligente; la governance dei processi "intelligenti" si basa sulla cooperazione tra gli attori coinvolti secondo un modello a rete. Perché non pensare di inserire negli organismi d’indirizzo di ogni smart city -prima che per legge, come scelta di buon senso- la figura professionale del Geographic Information Manager?</em></p><!-- <p><img src="./img/bimba.jpg"></p> --><p>L’idea del GIM è presa per analogia con l’<em>energy manager</em>, professione di cui si è incominciato a parlare nei primi anni ’80, dopo le note crisi petrolifere degli anni ‘70. Il modello seguito per questa -ormai radicata- professione potrebbe essere adattato al mondo delle <em>Smart City</em>, per sostenere in questo contesto l’uso consapevole dei geo-dati e delle relative tecnologie disponibili.</p><p>Potremmo identificare il <em>Geographic Information Manager</em> come un esperto di settore, il cui compito fondamentale sia quello di favorire l’incremento del livello di qualità e competenza tecnica all’interno del <em>network</em> che costruisce una comunità intelligente, nei riguardi delle tematiche legate alla capacità di fruire dei dati territoriali (<em>spatial enablement</em>), sia intesa rispetto alla disponibilità di queste informazioni, sia come abilità conseguite per il loro sfruttamento.</p><p>Tra settore energetico e quello dell’informazione geografica esistono ovviamente innumerevoli differenze. Mi sono lasciato però suggestionare da due caratteri comuni. Per entrambi gli ambiti –questo è il primo aspetto- i percorsi di studio che consentono di acquisire le conoscenze di base, nell’uno come nell’altro settore, possono essere diversi: la preparazione teorica è un prerequisito ma conta assai di più il successivo percorso di specializzazione, soprattutto <em>on the job</em>. La seconda caratteristica è la sensibilità culturale iniziale della classe dirigente del Paese nei confronti delle problematiche e delle opportunità di cui il primo è stato portatore, assai simile a quella mantenuta, almeno finora, nei riguardi delle istanze del settore dei dati geografici digitali.</p><p>Sappiamo che produzione e gestione dei dati geografici sono attività complesse, comportano costi consistenti; essi hanno potenzialità di riuso assai marcate e, infatti, sono i dati tra i più richiesti della PA: quelli disponibili hanno però un livello di fruibilità ancora insoddisfacente.  Guardare alle informazioni geografiche come a una sorta di "forma di energia" può aiutare una comunità "smart" a comprendere meglio quanta ne produce, quanta ne utilizza, per che fini e –soprattutto- con quale "rendimento", cioè qual è e a quanto ammonta la quantità che si spreca ecc., ecc.</p><p>Il ruolo dell’<em>energy manager</em> è stato introdotto per legge: la<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.normattiva.it%2Furi-res%2FN2Ls%3Furn%3Anir%3Astato%3Alegge%3A1991-01-09%3B10!vig%3D&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEyi2D_ROJ4FIVIazuF8-FI7AKYvQ">10/1991</a>, ha stabilito infatti che i soggetti (enti pubblici e privati) caratterizzati da consumi annui di energia al di sopra di una data soglia, debbano nominare un tecnico per "la conservazione e l’uso razionale dell’energia". Tale norma è stata, a più riprese, ampliata e diffusa ad altre funzioni. Come in occasione del recepimento della direttiva 2006/32/CE, riguardante l’efficienza degli usi finali dell’energia e i servizi energetici: all’<em>energy manager</em> il legislatore ha affiancato l’esperto in gestione dell’energia (D.Lgs. <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.normattiva.it%2Fatto%2FcaricaDettaglioAtto%3Fatto.dataPubblicazioneGazzetta%3D2008-07-03%26atto.codiceRedazionale%3D008G0137%26currentPage%3D1&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG-ymuWHkRcRa3SU-2Ne-vDKiohYw">115/2008</a>). Inoltre, questa seconda legge ha introdotto anche una procedura di certificazione volontaria, descritta in una norma tecnica, la UNI-CEI 11339:2009.</p><p>Lo scorso luglio, tale certificazione è stata resa obbligatoria (D.Lgs. <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.normattiva.it%2Fatto%2FcaricaDettaglioAtto%3Fatto.dataPubblicazioneGazzetta%3D2014-07-18%26atto.codiceRedazionale%3D14G00113%26currentPage%3D1&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEH08djV1mWrrFrPUI0X4WzseuWGQ">102/2014</a>, "Attuazione della direttiva2012/27/UE sull’efficienza energetica") sia nei riguardi dell’esperto in gestione dell’energia, con riferimento allo svolgimento di alcuni compiti, sia rispetto agli enti pubblici e privati indicati dalla legge 10/1991; essi, per continuare a beneficiare di riconoscimenti economici derivati da azioni di risparmio energetico adottate, dal 2016 dovranno nominare <em>energy manager</em> che abbiano acquisito la citata certificazione.</p><p>Un argomento da considerare –per l’idea del GI <em>Manager</em>- riguarda l’evoluzione delle modalità di gestione dell’elenco degli <em>energy manager</em> (non è un albo) e della formazione di questi professionisti. La legge del ‘91 si è limitata a stabilire che L’Agenzia per l’Energia (ENEA), dovesse provvedere -attraverso convenzioni con le Regioni- all’aggiornamento dei tecnici. L’introduzione della certificazione ha indotto il coinvolgimento di diversi organismi. Ovviamente, l’ENEA ha ampliato il proprio ruolo: attraverso la Federazione Italiana per l’uso Razionale dell’Energia, <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.fire-italia.it%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNF-vM5r-5f04lZzQB_idM8wxFgitA">FIRE</a>, iniziativa di cui è stata promotrice, gestisce dal 1992 la rete degli <em>energy manager</em>, su incarico del Ministero dello Sviluppo Economico. Più recentemente (2008), FIRE ha costituito una struttura interna dedicata alla certificazione delle competenze degli Esperti in Gestione dell’Energia: il <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.secem.eu%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGhk2aN9vFzC7nUBd7E-L_ep7C0Fw">SECEM</a>(Sistema Europeo per la Certificazione in <em>Energy Manager</em>). Inoltre, il D.Lgs. del luglio scorso, assegna ad <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.accredia.it%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFNpVV-NV-OKKXULK5-gntSf3_AMQ">Accredia</a>, organismo nazionale di accreditamento, la predisposizione degli schemi di certificazione e accreditamento e all’Ente Italiano di Normazione, UNI, l’elaborazione delle norme tecniche per la certificazione, indicando agli stessi di avvalersi della collaborazione del Comitato Termotecnico Italiano, di GSE SpA (Gestore dei Servizi Energetici, società del Ministero dell’Economia e delle Finanze), oltre che dell’ENEA.</p><p>Ma se i tempi necessari per vedere all’opera un GIM fossero dell’ordine di un decennio, come avvenuto per l’<em>energy manager</em>, non potremmo certamente essere soddisfatti. Inoltre, come si può appurare consultando i siti dedicati all’argomento, l’introduzione di questa figura per legge, seppur sostenuta da associazioni di settore, non ha garantito di per sé una sua diffusione consapevole e sempre efficace. Negli anni immediatamente successivi l’entrata in vigore della norma istitutiva, le aziende e le pubbliche amministrazioni interessate da questa normativa provvidero all’assegnazione di questi compiti affidandoli prevalentemente a tecnici già in staff alla struttura. Gli <em>energy manager</em> della prima ora erano tutti esperti nella materia? No, affatto. La legge non forniva indicazioni sul CV richiesto; inoltre, in molti ambienti l’attenzione dei vertici manageriali al tema energetico era scarsa, la disposizione normativa accolta come un’incombenza burocratica e, comunque, i professionisti competenti non erano molti.</p><p>Esistono però alcuni elementi che meritano di essere considerati. Rispetto al contesto degli anni ’80, oggi si può prevedere che il processo di promozione del GIM possa essere innescato e sostenuto facendo leva sulla partecipazione attiva di comunità in Rete, coalizzando nello specifico la comunità geomatica. E’ anche possibile prevedere di assegnare, per esempio, all’AgID un ruolo analogo a quello ricoperto da ENEA o, più precisamente, dalla FIRE. L’Agenzia per l’Italia Digitale è la naturale organizzazione cui fare riferimento per la gestazione della figura del GIM. Mi pare questa un’ipotesi che non dovrebbe suscitare perplessità o contrarietà nell’ambiente geomatico: l’Agenzia è l’organo deputato per l’applicazione delle strategie per la crescita digitale e, tra i diversi compiti, è impegnata per lo svolgimento del programma nazionale per la cultura, la formazione e le competenze digitali; ha coordinato il Comitato per le Regole Tecniche sui Dati Territoriale, <em>best practice</em> in termini di cooperazione interistituzionale ed ha riavviato recentemente i gruppi di lavoro tematici. <em>Last but not least</em>, in seno ad AgID è presente il <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.agid.gov.it%2Fagenda-digitale%2Fcitta-comunita-intelligenti%2Fcomitato-tecnico&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG65fuy5o4snri_WVhFJYu2Zxd6HQ">comitato tecnico delle Comunità intelligenti</a>, organismo che supporta le attività dell’Agenzia riguardanti questa materia tramite l’operato di quattro gruppi di lavoro, ognuno con specifici obiettivi.</p><p>L’iniziativa FIRE, si legge sul sito della federazione, ha avuto origine dalla convergenza di diverse esperienze associative, raccoglie soci che rappresentano tutti i comparti del settore e opera attraverso un nucleo di supporto fornito dall’ENEA. Trasferendo tale descrizione alla "Federazione Italiana per l’Informazione Geografica", non si dovrebbe creare l’ennesima associazione di questo settore: essa dovrebbe fungere da tavolo inclusivo di supporto ai GIM, in sintonia con gli indirizzi indicati dalle politiche per lo sviluppo delle competenze digitali, di cui AgID è il riferimento operativo.</p><p>I temi sui quali dovrebbe essere competente un GIM e per i quali, quindi, dovrebbe essere fornito supporto formativo, andrebbero approfonditi. Ne segnalo giusto due. L’applicazione del concetto "<em>spatial enablement</em>" al processo di una <em>Smart City</em> comporta l’esigenza di misurare il grado di aderenza a tale paradigma, per esempio valutare la capacità di PA, cittadini e imprese nell’uso dei dati territoriali per organizzare le loro attività e i modi di comunicare. La conoscenza dei punti di forza e dei limiti consente di definire le azioni da perseguire, le quali dovranno essere monitorate per seguirne l’attuazione, intervenendo per correggere eventuali scostamenti dai risultati attesi.</p><p>All’interno di questo tema, un GIM dovrà tenere sotto il controllo e proporre azioni per migliorare la capacità di implementazione della direttiva INSPIRE, in sintonia con l’<em><a href="http://www.google.com/url?q=http%3A%2F%2Finspire.ec.europa.eu%2Findex.cfm%2Fpageid%2F5160%2Flist%2Fmif&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFwGR0">[INSPIRE Maintenance and Implementation Framework]</a></em> approntato dalla Commissione Europea.</p><p>Il lavoro del GIM può far sì che la città -come "essere vivente"- impari a organizzare le informazioni geografiche tenendo presente i costi per generarle e permettendone l’utilizzo ogniqualvolta serve, a ogni utilizzatore, impegnandosi -e ingaggiando la città- per creare cicli d’informazioni geografiche sostenibili.</p><p>Il suo operato può inoltre avere degli effetti collaterali estremamente positivi. Da un lato generare una forte domanda per nuove professionalità legate proprio al mondo della GI, inducendo quindi la definizione di programmi formativi specifici sia in ambito accademico, sia post laurea. D’altro canto, le soluzioni individuate dai Big GIM potrebbero fungere da volano, stimolando grandi opportunità di crescita del mercato Geo-ICT.</p><!-- <p>foto di <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ftroybthompson%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFb4_3lSKfo8R3_kzNO0QTRxEeVhA">troybthompson</a></p> -->
-                </div>
-            </div>
-        </section>
+				</div>
+				<div class="col-md-4 column">
 
-        <!-- Download Section -->
-        <section id="download" class="content-section text-center">
-            <div class="download-section">
-                <div class="container">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <h2>Download Grayscale</h2>
-                        <p>You can download Grayscale for free on the preview page at Start Bootstrap.</p>
-                        <a href="http://startbootstrap.com/template-overviews/grayscale/" class="btn btn-default btn-lg">Visit Download Page</a>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Contact Section -->
-        <section id="contact" class="container content-section text-center">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <h2>Discutiamone</h2>
-                    <p>Per parlare del Geographic Information Manager è stata aperta una mailing list:</p>
-                    <p><a href="https://groups.google.com/d/forum/big-gim">https://groups.google.com/d/forum/big-gim</a>
-                    </p>
-                    <ul class="list-inline banner-social-buttons">
-                        <li>
-                            <a href="https://twitter.com/biggimnow" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-                        </li>
-<!--                         <li>
-                            <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                        </li>
-                        <li>
-                            <a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
-                        </li> -->
-                    </ul>
-                </div>
-            </div>
-        </section>
-
-        <!-- Map Section -->
-        <!-- <div id="map"></div> -->
-
-        <!-- Footer -->
-        <footer>
-            <div class="container text-center">
-                <p>Copyright &copy; Your Website 2014</p>
-            </div>
-        </footer>
-
-        <!-- jQuery -->
-        <script src="js/jquery.js"></script>
-
-        <!-- Bootstrap Core JavaScript -->
-        <script src="js/bootstrap.min.js"></script>
-
-        <!-- Plugin JavaScript -->
-        <script src="js/jquery.easing.min.js"></script>
-
-        <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
-        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
-
-        <!-- Custom Theme JavaScript -->
-        <script src="js/grayscale.js"></script>
-
-    </body>
-
-    </html>
+<!-- start feedwind code --><script type="text/javascript">document.write('\x3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https://' : 'http://') + 'feed.mikle.com/js/rssmikle.js">\x3C/script>');</script><script type="text/javascript">(function() {var params = {rssmikle_url: "https://groups.google.com/forum/feed/big-gim/topics/rss.xml?num=15",rssmikle_frame_width: "400",rssmikle_frame_height: "400",frame_height_by_article: "",rssmikle_target: "_blank",rssmikle_font: "Arial, Helvetica, sans-serif",rssmikle_font_size: "12",rssmikle_border: "off",responsive: "on",rssmikle_css_url: "",text_align: "left",text_align2: "left",corner: "off",scrollbar: "off",autoscroll: "off",scrolldirection: "up",scrollstep: "3",mcspeed: "20",sort: "New",rssmikle_title: "on",rssmikle_title_sentence: "big-gim Mailing List",rssmikle_title_link: "",rssmikle_title_bgcolor: "#FFFFFF",rssmikle_title_color: "#000000",rssmikle_title_bgimage: "",rssmikle_item_bgcolor: "#FFFFFF",rssmikle_item_bgimage: "",rssmikle_item_title_length: "55",rssmikle_item_title_color: "#0066FF",rssmikle_item_border_bottom: "on",rssmikle_item_description: "on",item_link: "off",rssmikle_item_description_length: "150",rssmikle_item_description_color: "#666666",rssmikle_item_date: "gl1",rssmikle_timezone: "Etc/GMT",datetime_format: "%b %e, %Y %l:%M:%S %p",item_description_style: "text",item_thumbnail: "full",article_num: "15",rssmikle_item_podcast: "off",keyword_inc: "",keyword_exc: ""};feedwind_show_widget_iframe(params);})();</script><div style="font-size:10px; text-align:center; width:400px;"><a href="http://feed.mikle.com/" target="_blank" style="color:#CCCCCC;">RSS Feed Widget</a><!--Please display the above link in your web page according to Terms of Service.--></div><!-- end feedwind code -->
+				</div>
+				
+			</div>
+			<div class="row clearfix">
+				<div class="col-md-12 column">
+					<p>footer</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
