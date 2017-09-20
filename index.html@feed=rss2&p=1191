@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commenti a: Un’altra tappa del GIM raggiunta</title>
+	<atom:link href="http://www.big-gim.it/?feed=rss2&#038;p=1191" rel="self" type="application/rss+xml" />
+	<link>http://www.big-gim.it/?p=1191</link>
+	<description>Geographic Information Manager</description>
+	<lastBuildDate>Mon, 07 Nov 2016 09:52:40 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.6</generator>
+	<item>
+		<title>Di: tanto</title>
+		<link>http://www.big-gim.it/?p=1191#comment-13491</link>
+		<dc:creator><![CDATA[tanto]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2015 13:26:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.big-gim.it/?p=1191#comment-13491</guid>
+		<description><![CDATA[Ciao Valerio,
+perdona la risposta tardiva ma il tuo commento era rimasto nella coda antispam, per contribuire il modo migliore è partecipare alla discussione in mailing list. Come vedrai oggi viene pubblicato del materiale presentato a Smartcity Exhibition a Bologna proprio ieri.
+Grazie del tuo interesse.]]></description>
+		<content:encoded><![CDATA[<p>Ciao Valerio,<br />
+perdona la risposta tardiva ma il tuo commento era rimasto nella coda antispam, per contribuire il modo migliore è partecipare alla discussione in mailing list. Come vedrai oggi viene pubblicato del materiale presentato a Smartcity Exhibition a Bologna proprio ieri.<br />
+Grazie del tuo interesse.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Di: Valerio De Luca</title>
+		<link>http://www.big-gim.it/?p=1191#comment-4841</link>
+		<dc:creator><![CDATA[Valerio De Luca]]></dc:creator>
+		<pubDate>Wed, 19 Aug 2015 01:14:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.big-gim.it/?p=1191#comment-4841</guid>
+		<description><![CDATA[Ottimo! Si può aiutare in altri modi oltre che con commenti e sugerimenti? grazie per il lavoro fatto 
+Valerio De Luca]]></description>
+		<content:encoded><![CDATA[<p>Ottimo! Si può aiutare in altri modi oltre che con commenti e sugerimenti? grazie per il lavoro fatto<br />
+Valerio De Luca</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Di: TANTO &#187; Archivio &#187; Un’altra tappa del GIM raggiunta</title>
+		<link>http://www.big-gim.it/?p=1191#comment-3691</link>
+		<dc:creator><![CDATA[TANTO &#187; Archivio &#187; Un’altra tappa del GIM raggiunta]]></dc:creator>
+		<pubDate>Fri, 07 Aug 2015 06:00:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.big-gim.it/?p=1191#comment-3691</guid>
+		<description><![CDATA[[&#8230;] Questo articolo e&#8217; stato pubblicato originariamente su www.big-gim.it. [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Questo articolo e&#8217; stato pubblicato originariamente su <a href="http://www.big-gim.it" rel="nofollow">http://www.big-gim.it</a>. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GIM</title>
+	<atom:link href="http://www.big-gim.it/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>http://www.big-gim.it</link>
+	<description>Geographic Information Manager</description>
+	<lastBuildDate>Mon, 07 Nov 2016 08:31:37 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.6</generator>
+<site xmlns="com-wordpress:feed-additions:1">113233511</site>	<item>
+		<title>La mappa aggiornata delle aree di conoscenza disciplinari per il professionista GI</title>
+		<link>http://www.big-gim.it/?p=2381</link>
+		<comments>http://www.big-gim.it/?p=2381#respond</comments>
+		<pubDate>Sat, 05 Nov 2016 23:16:44 +0000</pubDate>
+		<dc:creator><![CDATA[tanto]]></dc:creator>
+				<category><![CDATA[Senza categoria]]></category>
+
+		<guid isPermaLink="false">http://www.big-gim.it/?p=2381</guid>
+		<description><![CDATA[di Monica Sebillo Lo scorso ottobre si è concluso e il progetto “Geographic information – Need to Know (GI-N2K). Towards a more demand-driven geospatial workforce education/training system&#8220;, finanziato dal Programma europeo Erasmus Lifelong Learning. Iniziato nell&#8217;Ottobre 2013, il progetto è coordinato dalla Katholieke Universiteit di Leuven ed ha visto riuniti in un consorzio ben 31 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h6>di Monica Sebillo</h6>
+<p style="text-align: justify;">Lo scorso ottobre si è concluso e il progetto “Geographic information – Need to Know (<a href="http://www.gi-n2k.eu/" target="_blank">GI-N2K</a>). <em>Towards a more demand-driven geospatial workforce education/training system</em>&#8220;, finanziato dal Programma europeo <em>Erasmus Lifelong Learning</em>. Iniziato nell&#8217;Ottobre 2013, il progetto è coordinato dalla <em>Katholieke Universiteit</em> di Leuven ed ha visto riuniti in un consorzio ben 31 partner di 25 Paesi, dalla Germania al Belgio, dalla Lituania alla Grecia, dalla Slovacchia alla Romania, e molti altri ancora. Per l&#8217;Italia hanno partecipato le associazioni <a href="http://www.gisig.eu" target="_blank">GISIG</a> e <a href="http://www.amfm.it" target="_blank">AMFM GIS Italia</a>.<br />
+<a href="http://www.big-gim.it/wp-content/uploads/2016/11/logo_site_gi-n2k.png" target="_blank"><img class="wp-image-2441 size-full alignleft" src="http://www.big-gim.it/wp-content/uploads/2016/11/logo_site_gi-n2k.png" alt="logo_site_gi-n2k" width="170" height="170" srcset="http://www.big-gim.it/wp-content/uploads/2016/11/logo_site_gi-n2k.png 170w, http://www.big-gim.it/wp-content/uploads/2016/11/logo_site_gi-n2k-150x150.png 150w, http://www.big-gim.it/wp-content/uploads/2016/11/logo_site_gi-n2k-50x50.png 50w" sizes="(max-width: 170px) 100vw, 170px" /></a>GI-N2K è nato per dotare l&#8217;Europa di un <em><strong>Body of Knowledge</strong></em> (BoK) nel dominio delle Scienze e Tecnologie della <em>Geographic Information</em> in accordo alle più recenti scoperte concettuali e tecnologiche, provenienti sia dal mondo accademico che da quello professionale. In particolare, la proposta del progetto GI-N2K è scaturita dalla consapevolezza che la richiesta di professionisti nel campo dell’ Informazione Geografica è alta ma spesso disattesa. A Gennaio 2013, J. Verouden, il General Manager Geomatics/IM di SHELL Global Solutions affermava: “La nostra domanda di nuovi professionisti IG sta crescendo ma, nonostante l&#8217;attuale crisi economica, abbiamo difficoltà a trovare persone con la giusta conoscenza e competenza”.<br />
+Le ragioni di tale <em>gap</em> tra domanda e offerta di professionalità sono molte: tra le tante cause individuate, è stato evidenziato un significativo disallineamento tra la formazione nel campo della GI S&amp;T e le attuali richieste del mercato del lavoro. Ad esempio, in Europa molti corsi post-laurea riguardanti i GIS sono indirizzati soprattutto su argomenti di geografia, così come molti corsi di informatica non forniscono la necessaria conoscenza geografica.<br />
+Per affrontare queste problematiche, il consorzio GI-N2K ha proposto la progettazione e la realizzazione di un sistema di supporto alla formazione di figure con competenze geospaziali, che tenesse conto della domanda e dell&#8217;offerta in questo campo, sulla base della discussione in corso in Europa sulle nuove tendenze nella IG, in termini di scienze e tecnologie. Inoltre, tenendo presente la pervasività dell’ IG, ha stabilito che la soluzione fosse focalizzata su specifiche aree di conoscenza, per padroneggiare in maniera proficua la disciplina sottostante.</p>
+<p style="text-align: justify;"><strong>Il punto di partenza: il GI S&amp;T BoK del 2006</strong><br />
+Una prima versione del <strong><a href="http://www.gi-n2k.eu/wp-content/uploads/2014/01/UCGIS_GISandT_BoK_DigReIssue2012.pdf" target="_blank">GI S&amp;T <em>Body of Knowledge</em></a></strong> è stata sviluppata nel 2006, presso lo <em>University Consortium for Geographic Information Science</em> (UCGIS). Il BoK fu progettato per essere usato dai pianificatori e dai valutatori di curricoli, dagli organismi di certificazione e di accreditamento, dai professionisti geospaziali delle industrie, delle accademie e delle amministrazioni. Questa prima edizione ha un’organizzazione gerarchica e include 10 Aree di Conoscenza (KA), 73 unità (di cui 26 definite come unità &#8220;core&#8221;), 329 argomenti e più di 1600 obiettivi educativi.<br />
+A partire da questa versione del BoK, le prime fasi del progetto ne hanno analizzato i contenuti, con l&#8217;obiettivo di evidenziarne le diverse esigenze sia di aggiornamento di alcune voci, sia d’inserimento di altre del tutto assenti, come ad esempio: <em>big data</em>, realtà aumentata, <em>CityGML</em> e <em>Web services</em>. Le attività successive hanno portato alla migrazione dei contenuti aggiornati da una versione gerarchica ad una ontologica digitale, espressa in termini di concetti e di relazioni semantiche. Ciò, tra l&#8217;altro, ha consentito anche di pensare ad una soluzione tecnologica adatta alla consultazione online dei diversi contenuti e alla costruzione e validazione guidata dei curriculum.<br />
+Lo scorso giugno 2016, presso il Dipartimento di Informatica dell&#8217;Università degli Studi di Salerno, si è tenuto il <em>Workshop</em> &#8220;Education and training in geographic information – new opportunities from a European vision&#8221;.<br />
+Si è trattato dell&#8217;edizione italiana di uno degli otto plugfest organizzati in quest’ultima fase del progetto, come attività di <em>validation &amp; dissemination</em>, proprio per presentare e validare la versione aggiornata del BoK e il tool prototipale, <strong>VirLaBoK</strong> (<em>Virtual Laboratory for the Book of Knowledge</em>), progettato per essere di supporto sia alla valutazione, sia al design di percorsi formativi nell&#8217;ambito della IG.<br />
+In questa occasione, Sergio Di Martino, Sergio Farruggia e Beniamino Murgante hanno presentato tre diversi contesti applicativi:</p>
+<ul>
+<li><em>autonomous Driving;</em></li>
+<li>nuove professionalità per comunità spazialmente abilitate;</li>
+<li>pianificazione socio-economica.</li>
+</ul>
+<p style="text-align: justify;">In questi contesti è particolarmente avvertito il <em>gap</em> tra competenze attese e formazione. Con la guida di Danny Vandenbroucke (<em>Project leader</em> di GI-N2K) è stato possibile sperimentare l&#8217;utilizzo del VirLaBoK per la costruzione di curriculi atti proprio a colmare queste lacune.</p>
+<p style="text-align: justify;">I risultati del progetto sono stati senza dubbio interessanti. Tra le altre peculiarità, GI-N2K, ha contribuito a diffondere all’interno della comunità geomatica il BoK, un utile strumento per il <em>design</em> cooperativo di concetti spaziali il cui utilizzo era spesso relegato a contesti molto di nicchia. Oggi, il BoK, nella versione digitale &#8220;Europea&#8221;, può essere alla base di molte iniziative poiché fa <em>matching</em> tra istruzione e requisiti del mercato e offre una visione esaustiva della conoscenza e degli <em>skill</em> nell&#8217;ambito della IG S&amp;T.<br />
+Anche l&#8217;iniziativa &#8220;Geographic Information Manager&#8221; ha attinto parte della definizione delle competenze proprio dalla versione aggiornata del BoK, individuando le aree di conoscenza necessarie alla caratterizzazione della scheda profilo WSP G3. L’esperienza acquisita potrà essere replicata nell’ambito della descrizione delle competenze associate ai profili professionali che il Gruppo di Lavoro UNINFO “professionista IG” descriverà nella norma corrispondente.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.big-gim.it/?feed=rss2&#038;p=2381</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2381</post-id>	</item>
+		<item>
+		<title>Professionista GI: tra GI Science &#038; Tech, Knowledge Areas e abilità &#038; competenze richieste</title>
+		<link>http://www.big-gim.it/?p=2231</link>
+		<comments>http://www.big-gim.it/?p=2231#respond</comments>
+		<pubDate>Wed, 12 Oct 2016 09:57:24 +0000</pubDate>
+		<dc:creator><![CDATA[tanto]]></dc:creator>
+				<category><![CDATA[Senza categoria]]></category>
+
+		<guid isPermaLink="false">http://www.big-gim.it/?p=2231</guid>
+		<description><![CDATA[Il primo obiettivo che il Gruppo di Lavoro UNINFO “Profili professionali relativi all’informazione geografica” sta affrontando riguarda l’individuazione e la definizione delle principali figure professionali operanti nel settore Geo-ICT. Il risultato di questa fase sarà parte integrante della norma a cui in generale questo tavolo tecnico sta lavorando e che si applica al “Professionista GI”, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Il primo obiettivo che il Gruppo di Lavoro UNINFO “<strong>Profili professionali relativi all’informazione geografica</strong>” sta affrontando riguarda <strong>l’individuazione</strong> <strong>e la definizione</strong> delle principali figure professionali operanti nel settore Geo-ICT.</p>
+<p style="text-align: justify;">Il risultato di questa fase sarà parte integrante della norma a cui in generale questo tavolo tecnico sta lavorando e che si applica al “<strong>Professionista GI</strong>”, ovvero alla professione intellettuale “<em>che viene esercitata -a diversi livelli di complessità e in diversi contesti organizzativi, pubblici e privati- da soggetti che svolgono prevalentemente attività inerenti la produzione, la raccolta, l’utilizzo e la condivisione di dati geografici digitali</em>”.</p>
+<p style="text-align: justify;">Attraverso l’individuazione delle figure professionali maggiormente richieste dal mercato, la norma descriverà queste professioni, <strong>stabilendo per ognuna di esse il profilo professionale;</strong> vale a dire, descrivendo l’insieme di conoscenze, abilità e competenze necessarie a ogni figura professionale per svolgere la mansione richiesta.</p>
+<p style="text-align: justify;">Ci &#8220;terrà compagnia&#8221; lo <em>European e-Competence Framework</em> (<em>e-CF</em>), insieme alla nuova versione del <strong><em>GI Science &amp; Technology</em> – <em>Body of Knowledge</em></strong>. Si tratta di un aggiornamento del documento pubblicato nel 2006<a id="fnref1" class="footnoteRef" href="#fn1"><sup>1</sup></a>, ottenuto nell’ambito del <a href="http://www.GI-N2K.eu" target="_blank"><strong><em>progetto GI-N2K</em></strong></a> (le cui attività si stanno concludendo proprio in questo mese di ottobre). Questa nuova edizione comprende anche un <em>tool</em> per la gestione e la fruizione dinamica del GI S&amp;T –<em>BoK</em> stesso, il <em><strong>Virtual Lab for the BoK</strong></em> (<strong>VirLaBoK</strong>).</p>
+<p style="text-align: justify;">Mentre la metodologia basata sul sistema e-CF ci aiuterà a descrivere i profili professionali (ne abbiamo parlato <a href="http://www.big-gim.it/?p=1921"><em>qui</em></a>), per delineare le abilità e le conoscenze tecniche richieste per ogni profilo faremo riferimento alle <em><strong>Knowledge Areas</strong></em> del GI S&amp;T –<em>BoK</em>. Quest’approccio metodologico, oltre a fare riferimento al “catalogo” più completo e aggiornato delle discipline alla base del settore Geo-ICT, consentirà inoltre di servirsi del <em>tool</em> <strong>VirLaBoK</strong>, per individuare percorsi di <em>training</em> dedicati a ogni profilo professionale<em>. </em></p>
+<p style="text-align: justify;">Su questo argomento torneremo con un prossimo post.</p>
+<p style="text-align: justify;">In questo vorremo invece condividere alcune riflessioni riguardanti l&#8217;obiettivo iniziale, ossia vorremmo condividere possibili orientamenti adottabili per identificare figure professionale del settore Geo-ICT.</p>
+<p style="text-align: justify;">Lo scorso maggio abbiamo pubblicato sul sito Big-GIM un questionario, per sollecitare suggerimenti da parte della comunità geomatica in Rete in tema di professioni relative all’informazione geografica: <a href="http://www.big-gim.it/?p=1591" target="_blank"><strong><em>è tuttora possibile inserire contributi</em></strong></a>.</p>
+<p style="text-align: justify;">Le risposte finora ricevute (consultabili <a href="https://docs.google.com/spreadsheets/d/1delmo1fDcjUAIRxFgd5nRVuusYkQLxI96LLEBrP_KPw/edit#gid=1822677177" target="_blank"><em>qui</em></a>) mettono in evidenza quanto sia cambiata negli anni la sensibilità rispetto alle professioni relative all’informazione geografica. Alle proposte di figure professionali tradizionali della geomatica quali progettista, analista, operatore in ambito GIS oppure che richiamano ambiti specialistici (topografo, cartografo, geografo), ne sono state affiancate altre, che fanno riferimento a discipline diverse. Nelle risposte pervenute sono citate la statistica, la biologia e la sociologia, che possono essere prese come esempi, estratti da un insieme di discipline assai ampio. Ulteriori indicazioni fanno riferimento a possibili funzioni all’interno di organizzazioni (gestore di Infrastrutture di Dati Territoriali, gestori di processi di cittadinanza attiva, esperto di <em>marketing</em> territoriale) o, ancora, ambiti tecnologici: <em>desktop</em>, <em>web</em> o, ancora, <em>Big Data</em>. A proposito di dati, è interessante notare come le attività riguardanti la raccolta dei dati e la loro organizzazione sia espressa con molte definizioni, tra cui: <em>data collector</em>, <em>spatial data analyst</em>, fino a un originale <em>Building Information Manager</em>.</p>
+<p style="text-align: justify;">Questo campione di possibili figure professionali –sebbene sicuramente parziale- rende comunque evidente come sia importante stabilire dei criteri nuovi per individuare le principali figure professionali relative all’informazione geografica. Criteri che potrebbero essere di ausilio per individuare le professionalità operanti nel settore Geo-ICT, con un’attenzione anche alle richieste di abilità e competenze oggi emergenti.</p>
+<p style="text-align: justify;">Nel merito, occorre fissare i seguenti passi.</p>
+<p style="text-align: justify;"><strong><em>1. <span style="text-decoration: underline;">Stabilire i cambiamenti epocali di riferimento</span></em></strong></p>
+<ul style="text-align: justify;">
+<li><strong>Sviluppo Sostenibile</strong> (SS), quale processo di cambiamento del percorso dello sviluppo, come fissato nella nuova <strong>Agenda Globale per lo Sviluppo Sostenibile e i relativi Obiettivi di Sviluppo Sostenibile</strong> (<em>Sustainable Development Goals &#8211; SDGs</em> nell&#8217;acronimo inglese) da raggiungere entro il 2030; approvata nel settembre del 2015 dai Paesi Membri delle Nazioni Unite</li>
+<li><strong>Rivoluzione Digitale</strong> (RD), quindi
+<ul>
+<li><strong>Open Government</strong> come adesione ai principi di trasparenza, partecipazione e collaborazione grazie alla RD</li>
+<li><strong>Smart City/Community</strong><a id="fnref2" class="footnoteRef" href="#fn2"><sup>2</sup></a> (ecosistema <em>smart</em>) come sintesi paradigmatica della RD.</li>
+</ul>
+</li>
+</ul>
+<p style="text-align: justify;"><strong><em>2. <span style="text-decoration: underline;">Fissare i cambiamenti culturali imposti dai cambiamenti epocali</span></em></strong></p>
+<p style="text-align: justify;">Rispetto alla tematica che stiamo affrontando si può prendere come riferimento il concetto di</p>
+<table border="1" align="center">
+<thead>
+<tr class="header">
+<th style="text-align: center;" align="left"><em>Spatial enablement</em>: capacità di fruire dei dati geografici digitali, intesa sia rispetto alla disponibilità di queste informazioni, sia come abilità conseguite per il loro sfruttamento</th>
+</tr>
+</thead>
+</table>
+<p>&nbsp;</p>
+<p style="text-align: justify;">Una Comunità è coerente a tale concetto<a id="fnref3" class="footnoteRef" href="#fn3"><sup>3</sup></a> se le informazioni geospaziali sono assunte come <span style="text-decoration: underline;"><em>bene comune</em></span> e sono rese disponibili per stimolare l’innovazione. Per stabilire questa condizione occorre soddisfare alcuni requisiti, tra cui:</p>
+<ol style="list-style-type: decimal;">
+<li style="text-align: justify;">I membri della comunità devono essere <em>spatially literate</em> cioè essere in grado di fruire dei dati geospaziali, avendo anche la possibilità di acquisire un’istruzione adeguata</li>
+<li style="text-align: justify;">Deve essere creata e resa disponibile la <em>Spatial Data Infrastructure</em>, ambiente favorevole per la condivisione di questo patrimonio informativo, grazie all’adozione di standard e di norme condivise a livello globale</li>
+<li style="text-align: justify;">Devono essere progettati e abilitati processi comunicativi idonei per rendere fluida ed efficace la moltiplicazione qualitativa e quantitativa delle relazioni comunità-istituzioni; infatti, i membri della comunità sono la componente dinamica dell&#8217;ecosistema informativo e i processi necessari per il loro coinvolgimento devono quindi essere aderenti alle caratteristiche dei diversi contesti tecnologici, applicativi, sociali o individuali, al fine di creare conoscenza dal patrimonio informativo esistente.</li>
+</ol>
+<p><strong><em>3. <span style="text-decoration: underline;">Schematizzare l’individuazione delle principali figure professionali relative alla GI </span></em></strong></p>
+<p style="text-align: justify;">La trasformazione culturale abbinata all’influenza delle ICT sta generando:</p>
+<ul style="text-align: justify;">
+<li>sia <em>la richiesta</em> di professionisti qualificati con competenze spaziali<a id="fnref4" class="footnoteRef" href="#fn4"><sup>4</sup></a>,</li>
+<li>sia <em>la necessità</em> di formare cittadini in grado di utilizzare consapevolmente le tecnologie spaziali nella loro vita quotidiana<a id="fnref5" class="footnoteRef" href="#fn5"><sup>5</sup></a>.</li>
+</ul>
+<blockquote>
+<p style="text-align: justify;"><strong>L’individuazione delle principali figure professionali per l’informazione geografica dovrebbe seguire un approccio olistico.</strong></p>
+</blockquote>
+<p style="text-align: justify;">Tenere quindi presente le tre dimensioni dello &#8220;spazio&#8221; in cui operano in generale i professionisti dell’informazione geografica:</p>
+<ul>
+<li style="text-align: justify;">tecnologica,</li>
+<li style="text-align: justify;">di dominio / applicativa</li>
+<li style="text-align: justify;">organizzativa.</li>
+</ul>
+<table border="1" align="center">
+<thead>
+<tr class="header">
+<th align="left"><span style="text-decoration: underline;">Per quanto riguarda la prima dimensione</span> (tecnologica), esempi possono essere (ipotesi di aggregazione):</p>
+<p>&#8211; <em>Data Management</em> (<em>web semantic</em>, <em>Analytics</em>, <em>Big Data</em>, …)</p>
+<p>&#8211; IoT (<em>wireless sensor networks, indoor localisation, augmented reality, …)</em></p>
+<p><em>&#8211; Earth Observation Technologies, EOT</em></p>
+<p>&#8211; …..</th>
+</tr>
+</thead>
+</table>
+<table border="1" align="center">
+<thead>
+<tr class="header">
+<th align="left"><span style="text-decoration: underline;">Per la dimensione disciplinare/applicazioni</span> possono essere prese come riferimento le tematiche d’intervento relative al paradigma <em>Smart City</em><a id="fnref6" class="footnoteRef" href="#fn6"><sup>6</sup></a></p>
+<p style="text-align: justify;"><img class="aligncenter" src="http://www.big-gim.it/wp-content/uploads/2016/10/gimIMG_1.jpeg" width="402" height="261" /></p>
+<p>Due esempi di possibili <em>use case</em> (profilo professionale necessario) da definire in tale contesto</p>
+<p>1. <span style="text-decoration: underline;"><em>Esperto GI per Mobilità, Trasporti e Logistica</em></span></p>
+<p>Vedi, come un possibile riferimento, OpenTrasporti, <a href="http://open.gov.it/partecipa/consultazioni-attive/consultazione-terzo-nap/apertura-dei-dati-sulla-mobilita-attraverso-opentrasporti/" target="_blank"><em>Terzo Piano d’Azione Nazionale sull&#8217;Open Government</em></a>, Luglio 2016.</p>
+<p>Ma anche: <a href="http://www.di.unisa.it/amfm/images/DiMartino.pdf" target="_blank"><em><em>Autonomous Driving: challenges for Geographical Information Scientists and Practitioners</em></em></a>, S. Di Martino GI-N2K, giugno 2016.</p>
+<p>2. <span style="text-decoration: underline;"><em><strong>Esperto GI per Turismo e Cultura</strong></em></span></p>
+<p>Vedi, Proposta <a href="http://www.diculther.eu/2016/06/20/947/" target="_blank"><em><em>Safeguarding and enhancing Europe’s intangible Cultural Heritage</em></em></a>, come riferimento per inquadrare il <em>framework</em></th>
+</tr>
+</thead>
+</table>
+<table border="1" align="center">
+<thead>
+<tr class="header">
+<th align="left"><span style="text-decoration: underline;">Rispetto alla terza dimensione</span> (organizzativa), il <em>framework</em> di riferimento potrebbe essere il <em>“Modello strategico di evoluzione del Sistema Informativo della Pubblica Amministrazione”.</em></p>
+<p>Due esempi di possibili <em>use case</em> (profilo professionale necessario) da definire in tale contesto:</p>
+<p><em><strong>1. <span style="text-decoration: underline;">Evoluzione della SDI nazionale</span></strong></em></p>
+<p>Vedi: <a href="https://drive.google.com/open?id=0BwbciWThsvkZR0ZVdGtPQ2ZRODQ" target="_blank"><em>Linee Guida per la produzione dei database geotopografici</em></a> conformi alle norme del DM 10 novembre 2011. CPSG-CISIS. Giugno 2016</p>
+<p><em><strong>2. <span style="text-decoration: underline;">Alfabetizzazione geo-digitale</span></strong></em></p>
+<p>Vedi: Programma nazionale per la cultura, la formazione e le competenze digitali &#8211; <a href="http://www.agid.gov.it/sites/default/files/documenti_indirizzo/programma_nazionale_cultura_formazione_competenze_digitali_-_linee_guida_indicazioni_strategiche_operative_0.pdf" target="_blank"><em>LINEE GUIDA: Indicazioni strategiche e operative</em></a>. AGiD, maggio 2014.</th>
+</tr>
+</thead>
+</table>
+<p>&nbsp;</p>
+<p><strong><em>4. <span style="text-decoration: underline;">Una nuova famiglia di profili professionali inerenti l’informazione geografica</span></em></strong></p>
+<p style="text-align: justify;">Ricordando l’incarico assegnato al Gruppo di Lavoro UNINFO</p>
+<p style="text-align: justify;"><em>“A partire dal GIM, individuare e definire le principali figure professionali relative all’informazione geografica, impostando gli opportuni collegamenti con le norme internazionali e nazionali rilevanti e definendone le conoscenze, abilità e competenze anche al fine di fornire un utile strumento al legislatore, in un’ottica di complementarità tra la normazione tecnica volontaria e il settore cogente.”</em></p>
+<p style="text-align: justify;">e tenendo presente che la metodologia proposta dal sistema e-CF è orientata a descrivere una figura professionale complessa (nel nostro caso il “professionista GI”) attraverso la sua scomposizione in profili professionali corrispondenti alle principali figure professionali operanti nel settore Geo-ICT -non esaustive di tutte le professionalità richieste-, la schematizzazione illustrata nel precedente punto 3 può risultare utile per consentire l’identificazione di profili di terza generazione (G3), adottando terminologie comuni per la definizione delle competenze nell’ambito delle professionalità del settore Geo-ICT stesso.</p>
+<p style="text-align: justify;">In altri termini, le tre dimensioni adottate per descrivere lo &#8220;spazio&#8221; in cui operano in generale i professionisti dell’informazione geografica aiutano nella ricerca e nell’individuazione delle competenze basilari (in quest’ottica esse sono da considerarsi indipendenti). Tramite combinazioni di competenze riferibili a ognuna delle tre dimensioni sarà quindi possibile ottenere il profilo professionale relativo a specifiche esigenze.</p>
+<p style="text-align: justify;">A titolo di esempio, nell’ambito di un progetto riguardante il tema del dissesto idrogeologico potrà essere necessario avvalersi di un professionista GI, esperto di <em>Earth Observation Technologies</em>, EOTs, in grado di organizzare e gestire la meta datazione, secondo le regole previste per il Repertorio Nazionale dei Dati Territoriali, RNDT. Secondo la schematizzazione illustrata, a tale profilo professionale corrisponde un punto nello spazio della GI, individuato da “x” competenze tecnologiche, “y” disciplinari e “z” di essenza organizzativa.</p>
+<p><img class="aligncenter" src="http://www.big-gim.it/wp-content/uploads/2016/10/gimIMG_2.jpeg" width="482" height="321" /></p>
+<p style="text-align: center;">Figura 1. “Little-GIM” grows up</p>
+<p style="text-align: center;">
+<blockquote>
+<p style="text-align: left;">Post scritto insieme a Monica Sebillo</p>
+</blockquote>
+<p style="text-align: left;">
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1" style="text-align: justify;">DiBiase, D., DeMers, M., Johnson, A., Kemp, K., Luck, A. T., Plewe, B., Wentz, E., Eds. (2006). Geographic Information<br />
+Science &amp; Technology Body of Knowledge. Washington, D.C., Association of American Geographers.<br />
+http://downloads2.esri.com/edcomm2007/bok/GISandT_Body_of_knowledge.pdf<a href="#fnref1">↩</a></li>
+<li id="fn2" style="text-align: justify;">Definizione di riferimento: <em><em>proiezione astratta di comunità del futuro, riconducibile a un’idea di società che rispecchi l’evoluzione culturale e le tensioni sociali emergenti della nostra epoca.</em></em><a href="#fnref2">↩</a></li>
+<li id="fn3" style="text-align: left;">Vedi : S. Roche, N. Nabian, K. Kloeckl, C. Ratti. <em>Are ‘Smart Cities’ Smart Enough?</em> Global Geospatial Conference 2012<strong>: Spatially Enabling Government, Industry and Citizens,</strong> Québec City, Canada, 14-17 May 2012. <a href="http://senseable.mit.edu/papers/pdf/20120513_Roche_etal_SmartCities_SpatiallyEnabling.pdf"><em>http://senseable.mit.edu/papers/pdf/20120513_Roche_etal_SmartCities_SpatiallyEnabling.pdf</em></a><a href="#fnref3">↩</a></li>
+<li id="fn4" style="text-align: justify;">A questo riguardo si segnala il <em>survey</em> effettuato all’interno del già citato progetto GI-N2K; vedi il documento: &#8220;Integrated analysis of the demand for and supply of geospatial education and training&#8221;, <a href="http://www.gi-n2k.eu/surveys-results/"><em>http://www.gi-n2k.eu/surveys-results/</em></a><a href="#fnref4">↩</a></li>
+<li id="fn5" style="text-align: justify;">Committee on the Support for the Thinking Spatially: <em>The Incorporation of Geographic Information Science Across the K-12 Curriculum</em>. Committee on Geography; Board on Earth Sciences and Resources; Division on Earth and Life Studies; National Research Council. “Learning to Think Spatially: GIS as a Support System in the K-12 Curriculum”. THE NATIONAL ACADEMIES PRESS, 2006 <a href="http://www.nap.edu/catalog/11019/learning-to-think-spatially-gis-as-a-support-system-in"><em>http://www.nap.edu/catalog/11019/learning-to-think-spatially-gis-as-a-support-system-in</em></a><a href="#fnref5">↩</a></li>
+<li id="fn6" style="text-align: justify;"><span id="h.gjdgxs" class="anchor"></span> Paradigma <em>Smart City</em>: aree tematiche di intervento (adattato da: <em>European Smart Cities</em>, <a href="http://www.smart-cities.eu"><em>http://www.smart-cities.eu</em></a>, 2012)<a href="#fnref6">↩</a></li>
+</ol>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.big-gim.it/?feed=rss2&#038;p=2231</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2231</post-id>	</item>
+		<item>
+		<title>L’European e-Competence Framework (e-CF) ci terrà compagnia</title>
+		<link>http://www.big-gim.it/?p=1921</link>
+		<comments>http://www.big-gim.it/?p=1921#comments</comments>
+		<pubDate>Mon, 19 Sep 2016 07:51:12 +0000</pubDate>
+		<dc:creator><![CDATA[tanto]]></dc:creator>
+				<category><![CDATA[Senza categoria]]></category>
+
+		<guid isPermaLink="false">http://www.big-gim.it/?p=1921</guid>
+		<description><![CDATA[Nel corso dell’estate il Gruppo di Lavoro UNINFO “Profili professionali relativi all’informazione geografica” ha iniziato a operare. Alla prima riunione del 17 giugno (un sintetico resoconto è disponibile qui), ne è seguita una seconda, il 28 luglio, ed è già stato calendarizzato il terzo incontro, il 14 ottobre p.v. Ricordo che questo organismo ha il [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Nel corso dell’estate il <strong>Gruppo di Lavoro UNINFO “Profili professionali relativi all’informazione geografica”</strong> ha iniziato a operare. Alla prima riunione del 17 giugno (un sintetico resoconto è disponibile <a href="http://www.rndt.gov.it/RNDT/home/index.php?option=com_content&amp;view=article&amp;id=190:al-via-il-gdl-uninfo-sui-profili-dell-informazione-geografica&amp;catid=7:news&amp;Itemid=225" target="_blank">qui</a>), ne è seguita una seconda, il 28 luglio, ed è già stato calendarizzato il terzo incontro, il 14 ottobre p.v. Ricordo che questo organismo ha il compito di provvedere <strong>alla stesura della nuova proposta di norma</strong> sui profili professionali riguardanti le figure professionali che operano nel settore Geo-ICT.</p>
+<p style="text-align: justify;">Per elaborare tale norma verrà seguita la metodologia basata sul sistema <em><strong>European e-Competence Framework</strong></em> (e-CF), già adottata –ricorderà chi ne ha seguito il processo- per definire il profilo del <em><strong>Geographic Information Manager.</strong></em></p>
+<p style="text-align: justify;">In estrema sintesi, l’e-CF è uno strumento messo a punto per razionalizzare il gran numero di profili ICT e descrizioni degli stessi utilizzati in ambito business e formazione in Europa. Per questo fine, <strong>sono stati creati 23 Profili ICT</strong>, strutturati in sei famiglie (nel gergo dell’e-CF, di generazione 1) che coprono l’intero processo di <em>business</em> dell’ICT (gestione <em>business</em>, gestione tecnica, progettazione, sviluppo, esercizio &amp; servizi e supporto). I 23 generici Profili professionali (così detti della generazione 2) rappresentano la cima dell’albero genealogico della Famiglia dei Profili Europei ICT, come rappresentato nella figura qui sotto.</p>
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-2011" src="http://www.big-gim.it/wp-content/uploads/2016/09/01.png" alt="01" width="595" height="538" srcset="http://www.big-gim.it/wp-content/uploads/2016/09/01.png 595w, http://www.big-gim.it/wp-content/uploads/2016/09/01-300x271.png 300w" sizes="(max-width: 595px) 100vw, 595px" /><br />
+I profili possono essere usati dai diversi <em>stakeholder</em> europei come riferimento, o come punto di partenza per sviluppare ulteriori generazioni di profili, nello nostro caso quelli riguardanti il settore dell’Informazione Geografica.</p>
+<p style="text-align: justify;">Nel contesto delle attività normative UNINFO, l&#8217;attività del nostro GdL è quindi inserita all’interno della definizione di profili di terza generazione (norma multi-parte 11621-N), seguita dalla Commissione tecnica “<strong>Attività professionali non regolamentate (PNR) – Figure professionali operanti nel settore ICT</strong>&#8220;. La tabella nel seguito riassume lo stato dell’arte delle norme APNR–ICT, aggiornate con l’avvio del nostro gruppo di lavoro.</p>
+<p style="text-align: justify;">Il progetto di <strong>norma 11621-7</strong>, che ci riguarda, completerà alcune delle aree non definite dalla UNI 11506, definendo i relativi profili professionali nel campo dell’informazione geografica richiesti dal mercato.</p>
+<p style="text-align: justify;"><img class="aligncenter wp-image-2061 size-full" src="http://www.big-gim.it/wp-content/uploads/2016/09/Tabella-UNINFO-norme-APNR-ICT_extralarge.bmp" alt="tabella-uninfo-norme-apnr-ict_extralarge" width="616" height="428" /></p>
+<p style="text-align: justify;">Per chi desidera approfondire il sistema e-CF, consiglio prima di tutto di riprendere <a href="http://www.slideshare.net/big-gim/gim-scano" target="_blank">la presentazione</a> illustrata da Roberto Scano, in occasione dell’incontro pubblico per la presentazione del GIM, presso la <em>Link Campus University</em>, il 18 giugno 2015.<br />
+Naturalmente, sul sito <a href="http://www.ecompetences.eu/it/" target="_blank">http://www.ecompetences.eu/it/</a> sono disponibili tutti i documenti dell’e-CF: la descrizione (parte I), le Linee Guida (parte II), Metodologia (parte III) e <em>Case Studies</em> (parte IV), questi ultimi disponibili solo in inglese.<br />
+Può risultare uno studio impegnativo. Posso suggerire di iniziare invece con la lettura dei profili ICT, “<strong><em><a href="http://www.ecompetences.eu/site/objects/download/6424_EUICTProfessionalProfilesCWAIT.pdf" target="_blank">CEN Workshop Agreement &#8211; European ICT Professional Profiles</a></em></strong>”, e tenere i quattro testi per consultazione. Questo documento illustra diffusamente la filosofia seguita per creare i Profili ICT europei e i vantaggi che questo sistema offre, nonché l’approccio metodologico seguito per individuare e descrivere i profili ICT.<br />
+Vengono quindi descritti I 23 Profili professionali di riferimento europeo e ulteriori schemi, rappresentanti i Profili da differenti prospettive: ad esempio, relazioni in ambito lavorativo, orientamento tecnico/<em>business</em>, <em>e-Competence</em> assegnate e risultati attesi (<em>deliverable</em>), questi attribuiti in termini di responsabilità di risultato (<em>accountable</em>), di esecuzione o, ancora, di contribuzione.<br />
+Il documento, fornisce inoltre una guida pratica dell’e-CF, <strong>per creare propri Profili di Generazione 3</strong>. Consiglio di fermare l’attenzione su questa parte conclusiva, in quanto essa descrive il percorso che il Gruppo di Lavoro del progetto di norma 11621-7, si appresta a intraprendere.<br />
+Infine, il Glossario presentato al termine del documento, può essere utile per acquisire familiarità con la terminologia dell’e-CF.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.big-gim.it/?feed=rss2&#038;p=1921</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1921</post-id>	</item>
+		<item>
+		<title>Scheda Profilo WSP-G3 &#8211; Geographic Information Manager</title>
+		<link>http://www.big-gim.it/?p=1891</link>
+		<comments>http://www.big-gim.it/?p=1891#respond</comments>
+		<pubDate>Mon, 18 Jul 2016 09:14:18 +0000</pubDate>
+		<dc:creator><![CDATA[tanto]]></dc:creator>
+				<category><![CDATA[Senza categoria]]></category>
+
+		<guid isPermaLink="false">http://www.big-gim.it/?p=1891</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><iframe src="https://www.slideshare.net/slideshow/embed_code/key/bVE2RT5pga3dYX" width="479" height="511" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.big-gim.it/?feed=rss2&#038;p=1891</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1891</post-id>	</item>
+		<item>
+		<title>Il GIM va ad Helsinki</title>
+		<link>http://www.big-gim.it/?p=1791</link>
+		<comments>http://www.big-gim.it/?p=1791#respond</comments>
+		<pubDate>Thu, 23 Jun 2016 18:07:42 +0000</pubDate>
+		<dc:creator><![CDATA[tanto]]></dc:creator>
+				<category><![CDATA[Senza categoria]]></category>
+
+		<guid isPermaLink="false">http://www.big-gim.it/?p=1791</guid>
+		<description><![CDATA[Qualche giorno fa, ad Helsinki, alla conferenza AGILE, è stato presentato il GIM. Monica Sebillo, presente all&#8217;incontro, ha presentato un paper realizzato in collaborazione con Sergio Farruggia. Il lavoro ha avuto un buon risultato in termini di valutazione, ora è negli atti della conferenza e abbiamo deciso di condividerlo con tutta la GIM-community. Di seguito [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="p1"><a href="http://www.mcgroup.com/fileadmin/images/Network/158775623_helsinki_AdobeRGB_fc.jpg"><img class="alignnone" src="http://www.mcgroup.com/fileadmin/images/Network/158775623_helsinki_AdobeRGB_fc.jpg" width="558" height="372" /></a></p>
+<p class="p1"><span class="s1">Qualche giorno fa, ad Helsinki, alla conferenza AGILE, è stato presentato il GIM.</span></p>
+<p class="p1">Monica Sebillo, presente all&#8217;incontro, ha presentato un paper realizzato in collaborazione con Sergio Farruggia. Il lavoro ha avuto un buon risultato in termini di valutazione, o<span class="s1">ra è negli atti della conferenza e abbiamo deciso di condividerlo con tutta la GIM-community. </span></p>
+<p class="p1"><span class="s1">Di seguito troverete l&#8217;abstract ed il paper stesso, il lavoro sarà inoltre accessibile dal sito dedicato all&#8217;iniziativa. </span><span class="s1">Il GIM è stato inoltre utilizzato come caso di studio anche durante il workshop relativo al progetto GI-N2KA. </span></p>
+<p class="p1"><span class="s1">In seno ad AMFM è stato istituito un Gruppo di Lavoro dedicato al GIM, in modo da coinvolgere chiunque sia interessato a dare un contributo alla definizione di queste norme UNINFO, affiancando i 5 esperti nominati dall&#8217;associazione. Il gruppo è aperto.  </span></p>
+<p class="p1"><span class="s1">A breve altre news.</span></p>
+<p class="p1" style="text-align: justify;"><em><span class="s1">Abstract &#8211; The prosumerism of a territory represents its capability to provide consumers with information, and use information from producers, with both activities addressed to create synergies among different planning strategies. As a matter of fact, large amounts of data from multiple sources are available and represent a significant potential for a territory that has to be properly managed so that it evolves into a resource. This actualization requires the involvement of multidisciplinary competences capable of both acquiring and using knowledge extracted from a territory / community, and integrating a proper usage of available technology within evolving scenarios. The paper describes an Italian proposal addressed to the establishment of the professional profile of geographic information manager. Such a profile is built in terms of skills and competences and is properly embedded in a scenario where smart communities play a relevant role in realizing the systemic process started by the Open Government paradigm. The GIM commitment is mainly focused on issues related to the spatial enablement, i.e., the capability to benefit of spatial data, both in terms of its availability and as a skill achieved for its exploitation. The GIM profile is described as presented to the UNINFO committee that is in charge of regulating profiles concerning computer science technologies, at national level.</span></em></p>
+<p><iframe src="https://www.slideshare.net/slideshow/embed_code/key/xqtgD88AkZx2FU" width="479" height="511" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.big-gim.it/?feed=rss2&#038;p=1791</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1791</post-id>	</item>
+		<item>
+		<title>Presentazione del Gruppo di Lavoro</title>
+		<link>http://www.big-gim.it/?p=1731</link>
+		<comments>http://www.big-gim.it/?p=1731#respond</comments>
+		<pubDate>Wed, 22 Jun 2016 12:15:51 +0000</pubDate>
+		<dc:creator><![CDATA[tanto]]></dc:creator>
+				<category><![CDATA[Senza categoria]]></category>
+
+		<guid isPermaLink="false">http://www.big-gim.it/?p=1731</guid>
+		<description><![CDATA[Vi aggiorniamo sul primo incontro, avvenuto a Roma lo scorso 17 giugno presso la sede AgID, del Gruppo di Lavoro UNI/CT 526/GL 04 (ci chiamiamo così :)) per la definizione dei profili delle &#8220;Attività professionali non regolamentate &#8211; Profili Professionali relativi all&#8217;Informazione Geografica&#8221;. Iniziamo con presentarvi i membri: per  AgID: Gabriele Ciasullo, che è stato [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/LuMaxArt_Computer_Workgroup_Concept.jpg" width="428" height="428" /></p>
+<p><span style="font-weight: 400;">Vi aggiorniamo sul primo incontro, avvenuto a Roma lo scorso 17 giugno presso la sede AgID, del Gruppo di Lavoro UNI/CT 526/GL 04 (ci chiamiamo così :)) per la definizione dei profili delle &#8220;Attività professionali non regolamentate &#8211; Profili Professionali relativi all&#8217;Informazione Geografica&#8221;.</span></p>
+<p><span style="font-weight: 400;">Iniziamo con presentarvi i membri:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">per  </span><b>AgID</b><span style="font-weight: 400;">: </span><b>Gabriele Ciasullo</b><span style="font-weight: 400;">, che è stato nominato coordinatore del gruppo dalla commissione  UNINFO &#8220;Attività professionali non regolamentate &#8211; Figure professionali operanti nel settore ICT&#8221; e </span><b>Antonio Rotundo</b><span style="font-weight: 400;">;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">per </span><b>AM/FM:</b> <b>Laura Berardi</b><span style="font-weight: 400;">  (che il gruppo di lavoro ha individuato quale responsabile dell’editing), </span><b>Monica Sebillo</b><span style="font-weight: 400;">, </span><b>Beniamino Murgante</b><span style="font-weight: 400;">, </span><b>Alessandro Cimbelli</b><span style="font-weight: 400;"> e </span><b>Andrea Fiduccia</b><span style="font-weight: 400;">;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">per </span><b>Epsilon:</b> <b>Giacomo Martirano</b><span style="font-weight: 400;">;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">per </span><b>Assinter</b><span style="font-weight: 400;">: </span><b>Silvia Barbieri</b><span style="font-weight: 400;">;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">per </span><b>SGI: Sergio Farruggia</b><span style="font-weight: 400;">, </span><b>Calogero Ravenna</b><span style="font-weight: 400;">, </span><b>Riccardo Morri</b><span style="font-weight: 400;"> (Ass. Insegnanti Geografia) e </span><b>Lorenzo Perone.</b></li>
+</ul>
+<p>Il Gruppo di Lavoro avrà a disposizione 18 mesi per redigere la norma che verrà approvata dalla Commissione UNINFO che lo presiede.</p>
+<p>L&#8217;obiettivo nei prossimi mesi sarà quello di coinvolgere i soggetti interessati alla tematica in questa lista di discussione,  anche attraverso l’azione delle associazioni rappresentate nel Gruppo di Lavoro.</p>
+<p>La partecipazione diretta alle attività del  Gruppo di Lavoro e/o della Commissione UNINFO rimarrà aperta a tutti i soggetti interessati.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.big-gim.it/?feed=rss2&#038;p=1731</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1731</post-id>	</item>
+		<item>
+		<title>Il GIM a Forum PA</title>
+		<link>http://www.big-gim.it/?p=1651</link>
+		<comments>http://www.big-gim.it/?p=1651#respond</comments>
+		<pubDate>Sat, 04 Jun 2016 15:06:16 +0000</pubDate>
+		<dc:creator><![CDATA[tanto]]></dc:creator>
+				<category><![CDATA[Senza categoria]]></category>
+
+		<guid isPermaLink="false">http://www.big-gim.it/?p=1651</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7oKGhDEvL6WVWk" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.big-gim.it/?feed=rss2&#038;p=1651</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1651</post-id>	</item>
+		<item>
+		<title>Quali figure professionali IG ritieni siano importanti?</title>
+		<link>http://www.big-gim.it/?p=1591</link>
+		<comments>http://www.big-gim.it/?p=1591#comments</comments>
+		<pubDate>Fri, 27 May 2016 07:16:22 +0000</pubDate>
+		<dc:creator><![CDATA[tanto]]></dc:creator>
+				<category><![CDATA[Senza categoria]]></category>
+
+		<guid isPermaLink="false">http://www.big-gim.it/?p=1591</guid>
+		<description><![CDATA[In seguito al Kick off meeting dello scorso 1 marzo 2016 e all’accoglimento delle conclusioni da parte della Commissione UNI/CT 526 “UNINFO APNR-ICT” competente è stato costituito il gruppo di lavoro UNI/CT 526/GL 04 “Profili Professionali relativi alla informazione geografica”. Il gruppo si dedicherà all’elaborazione del progetto di norma E14.D0.003.7 “Attività professionali non regolamentate &#8211; [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="alignnone" src="http://www.performarsi.net/wp-content/uploads/2014/04/importante.png" width="413" height="294" /></p>
+<p>In seguito al <em>Kick off meeting</em> dello scorso 1 marzo 2016 e all’accoglimento delle conclusioni da parte della Commissione UNI/CT 526 “UNINFO APNR-ICT” competente <strong>è stato costituito il gruppo di lavoro UNI/CT 526/GL 04 “Profili Professionali relativi alla informazione geografica”</strong>.<br />
+Il gruppo si dedicherà all’elaborazione del progetto di norma E14.D0.003.7 “Attività professionali non regolamentate &#8211; Profili professionali per l&#8217;ICT &#8211; Parte X: Profili professionali relativi alla informazione geografica” che ha superato con esito positivo la fase di Inchiesta Pubblica Preliminare UNI.</p>
+<p>In attesa che il gdl inizi a operare, pensiamo utile raccogliere dalla comunità geomatica in Rete indicazioni sulle figure professionali che il gdl dovrebbe prendere in considerazione, oltre al GIM, e in generale, suggerimenti in tema di professioni della <em>Geographic Information.</em></p>
+<p>Per questo, abbiamo preparato un <a href="http://bit.ly/questionario-gim"><strong>secondo questionario</strong></a>.</p>
+<p>Ringraziamo in anticipo chi vorrà lasciare un contributo.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.big-gim.it/?feed=rss2&#038;p=1591</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1591</post-id>	</item>
+		<item>
+		<title>Big GIM mette su famiglia</title>
+		<link>http://www.big-gim.it/?p=1501</link>
+		<comments>http://www.big-gim.it/?p=1501#respond</comments>
+		<pubDate>Mon, 09 May 2016 14:41:17 +0000</pubDate>
+		<dc:creator><![CDATA[tanto]]></dc:creator>
+				<category><![CDATA[Senza categoria]]></category>
+
+		<guid isPermaLink="false">http://www.big-gim.it/?p=1501</guid>
+		<description><![CDATA[Lo scorso primo marzo si è svolto il Kick off Meeting del Gruppo di Lavoro UNINFO &#8220;Profili professionali relativi all&#8217;informazione geografica&#8221;. Ne aveva dato notizia AgID qui. I due mesi trascorsi, da quella riunione ad oggi, sono stati impiegati dalle associazioni Stati Generali dell’Innovazione e AMFM GIS Italia, per formalizzare l’adesione all’iniziativa UNINFO. Entrambi i [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.ingleseprecoce.it/wp-content/uploads/2011/01/Barbie_e_Ken.jpg"><img class="alignleft" src="http://www.ingleseprecoce.it/wp-content/uploads/2011/01/Barbie_e_Ken.jpg" width="480" height="269" /></a></p>
+<p><span style="font-weight: 400;">Lo scorso primo marzo si è svolto il </span><i><span style="font-weight: 400;">Kick off Meeting</span></i><span style="font-weight: 400;"> del Gruppo di Lavoro UNINFO &#8220;Profili professionali relativi all&#8217;informazione geografica&#8221;. Ne aveva dato notizia AgID </span><a href="http://www.rndt.gov.it/RNDT/home/index.php?option=com_content&amp;view=article&amp;id=167:profili-professionali-dell-informazione-geografica-il-1-marzo-il-kick-off-meeting&amp;catid=7&amp;Itemid=225"><span style="font-weight: 400;">qui</span></a><span style="font-weight: 400;">.</span></p>
+<p>I due mesi trascorsi, da quella riunione ad oggi, sono stati impiegati dalle associazioni Stati Generali dell’Innovazione e AMFM GIS Italia, per formalizzare l’adesione all’iniziativa UNINFO. Entrambi i sodalizi hanno terminato l’iter, conclusosi positivamente con l’iscrizione all’ente per la normazione in materia di informatica e la segnalazione dei propri delegati al Gruppo di Lavoro.</p>
+<p>Anche altri soggetti, già soci UNINFO e/o presenti a quella riunione, hanno aderito all’iniziativa nel frattempo. E’ quindi probabile che nell’arco di questo mese UNINFO proceda, convocando la prima riunione operativa.</p>
+<p><span style="font-weight: 400;">Abbiamo deciso d’impiegare questo tempo per riprendere la cura di queste pagine. Come avevamo anticipato durante quella riunione, grati per il risultato ottenuto con il questionario sul GIM, che tanti spunti per questo argomento ci ha fornito, ne abbiamo preparato un secondo, che trovate </span><a href="http://bit.ly/questionario-gim" target="_blank"><strong>qui</strong></a><span style="font-weight: 400;">. In sintesi, grazie ancora al contributo della Rete, vorremmo raccogliere indicazioni sulle figure professionali che il gdl dovrebbe prendere in considerazione, oltre al GIM, e in generale, suggerimenti in tema di professioni della </span><i><span style="font-weight: 400;">Geographic Information</span></i><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Contiamo molto, visto il precedente, sull’esperienza della comunità geomatica in Rete. Vorremo anche cogliere quest’occasione per incoraggiare suggestioni rispetto alle prospettive di sviluppo dell’Informazione Geografica nei prossimi anni. Dai contributi raccolti potrebbero emergere idee e consigli veramente utili per </span><b>immaginare il futuro di questo settore in Italia e agire per contribuire alla creazione delle condizioni favorevoli perché tale scenario si avveri</b><span style="font-weight: 400;">. Il nostro Paese ha un patrimonio di competenze straordinario in questo settore: valenti tecnici che operano nella pubblica amministrazione, nelle aziende, come liberi professionisti e neogeografi; una rete di ricercatori, i cui meriti sono apprezzati anche oltre confine. Un capitale umano degno </span><a href="http://www.cisge.it/blog/segnalazioni/quando-litalia-disegnava-il-mondo-tesori-cartografici-del-rinascimento-italiano/?utm_source=dlvr.it&amp;utm_medium=twitter"><span style="font-weight: 400;">della Nostra tradizione.</span></a><span style="font-weight: 400;"> Le opere e i giorni sono propizi.   </span></p>
+<p><span style="font-weight: 400;">Con questa finalità, prima di compilare il questionario, vi proponiamo di dare un’occhiata al seguente documento: “</span><a href="http://ggim.un.org/docs/UN-GGIM-Future-trends_Second%20edition.pdf"><span style="font-weight: 400;">UN-GGIM, Future Trends in geospatial information management: the five to ten year vision</span></a><span style="font-weight: 400;">”, Second edition, December 2015.</span></p>
+<p><span style="font-weight: 400;">In questi giorni, precisamente l’11 maggio, si svolgerà la conferenza nazionale promossa e organizzata dall’AgID: “</span><a href="http://www.rndt.gov.it/RNDT/home/index.php?option=com_content&amp;view=article&amp;id=179:a-maggio-la-conferenza-nazionale-sull-informazione-geografica&amp;catid=7:news&amp;Itemid=225"><span style="font-weight: 400;">Il ruolo dell&#8217;informazione geografica nel contesto dell&#8217;agenda digitale: sfide, opportunità e nuove policy</span></a><span style="font-weight: 400;">”. Anche quanto potremo leggere dai resoconti (per chi non sarà presente) di questo evento potrà fornire utili spunti. Questo vale come invito a seguire l’iniziativa AgID.</span></p>
+<p><span style="font-weight: 400;">Vorrei infine dare uno spunto personale, che mi ha suggerito la lettura del documento UN-GGIM, già dalle prime suggestioni colte tra le righe dell’</span><i><span style="font-weight: 400;">Executive Summary</span></i><span style="font-weight: 400;">.  Per non lasciare solo il Big GIM, da quali collaboratori –e con quali competenze- dovrà essere affiancato, avendo presente il compito assegnato, espresso in </span><a href="http://www.big-gim.it/?p=761"><span style="font-weight: 400;">geo-note</span></a><span style="font-weight: 400;">?</span></p>
+<p><strong>Sergio Farruggia</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.big-gim.it/?feed=rss2&#038;p=1501</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1501</post-id>	</item>
+		<item>
+		<title>Brindiamo insieme!</title>
+		<link>http://www.big-gim.it/?p=1401</link>
+		<comments>http://www.big-gim.it/?p=1401#respond</comments>
+		<pubDate>Sun, 20 Dec 2015 23:53:23 +0000</pubDate>
+		<dc:creator><![CDATA[tanto]]></dc:creator>
+				<category><![CDATA[Senza categoria]]></category>
+
+		<guid isPermaLink="false">http://www.big-gim.it/?p=1401</guid>
+		<description><![CDATA[Brindiamo insieme per un 2016 ricco di soddisfazioni per i professionisti dell&#8217;Informazione Geografica! (Provate a cliccare sull&#8217;immagine) &#160; &#160; &#160; &#160; &#160;]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1411" style="width: 770px" class="wp-caption alignnone"><a href="http://www.rndt.gov.it/RNDT/home/index.php?option=com_content&amp;view=article&amp;id=163:profili-professionali-per-l-informazione-geografica-parte-il-gdl-uninfo&amp;catid=7&amp;Itemid=225" target="_blank"><img class="size-large wp-image-1411" src="http://www.big-gim.it/wp-content/uploads/2015/12/brut-champagne-1385020685_93-1024x765.jpg" alt="brut champagne" width="760" height="568" srcset="http://www.big-gim.it/wp-content/uploads/2015/12/brut-champagne-1385020685_93-1024x765.jpg 1024w, http://www.big-gim.it/wp-content/uploads/2015/12/brut-champagne-1385020685_93-300x224.jpg 300w, http://www.big-gim.it/wp-content/uploads/2015/12/brut-champagne-1385020685_93.jpg 1200w" sizes="(max-width: 760px) 100vw, 760px" /></a><p class="wp-caption-text">brut champagne</p></div>
+<p>Brindiamo insieme per un 2016 ricco di soddisfazioni per i professionisti dell&#8217;<em>Informazione Geografica</em>!</p>
+<p>(Provate a cliccare sull&#8217;immagine)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.big-gim.it/?feed=rss2&#038;p=1401</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1401</post-id>	</item>
+	</channel>
+</rss>

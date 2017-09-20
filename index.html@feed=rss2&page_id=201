@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commenti a: Mailing list</title>
+	<atom:link href="http://www.big-gim.it/?feed=rss2&#038;page_id=201" rel="self" type="application/rss+xml" />
+	<link>http://www.big-gim.it</link>
+	<description>Geographic Information Manager</description>
+	<lastBuildDate>Mon, 07 Nov 2016 09:52:40 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.6</generator>
+	<item>
+		<title>Di: tanto</title>
+		<link>http://www.big-gim.it/?page_id=201#comment-28171</link>
+		<dc:creator><![CDATA[tanto]]></dc:creator>
+		<pubDate>Mon, 09 May 2016 09:37:38 +0000</pubDate>
+		<guid isPermaLink="false">http://big-gim.azurewebsites.net/?page_id=201#comment-28171</guid>
+		<description><![CDATA[Buongiorno Angelo, vorrebbe essere iscritto al gruppo di discussione? In tal caso può farlo direttamente da qui https://groups.google.com/forum/#!forum/big-gim]]></description>
+		<content:encoded><![CDATA[<p>Buongiorno Angelo, vorrebbe essere iscritto al gruppo di discussione? In tal caso può farlo direttamente da qui <a href="https://groups.google.com/forum/#!forum/big-gim" rel="nofollow">https://groups.google.com/forum/#!forum/big-gim</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Di: angelo</title>
+		<link>http://www.big-gim.it/?page_id=201#comment-27631</link>
+		<dc:creator><![CDATA[angelo]]></dc:creator>
+		<pubDate>Thu, 28 Apr 2016 13:10:33 +0000</pubDate>
+		<guid isPermaLink="false">http://big-gim.azurewebsites.net/?page_id=201#comment-27631</guid>
+		<description><![CDATA[vorrei essere iscritto]]></description>
+		<content:encoded><![CDATA[<p>vorrei essere iscritto</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
